@@ -15,3 +15,9 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.comment('azza2')
 
+WebUI.acceptAlert()
+
+WebUI.delay(0)
+
+WebUI.comment('')
+
